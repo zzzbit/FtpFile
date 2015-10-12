@@ -1,0 +1,36 @@
+﻿生成启动时间为 2012/4/19 13:16:42。
+项目“C:\Users\zhangzhizhi\Documents\Visual Studio 2010\Projects\FtpFile\FtpFile\FtpFile.vcxproj”在节点 2 上(build 个目标)。
+InitializeBuildStatus:
+  正在创建“Debug\FtpFile.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+ClCompile:
+  所有输出均为最新。
+  e:\Visual Stadio\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\FtpFile.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt FtpFile.cpp FtpFileDlg.cpp
+  FtpFile.cpp
+  正在生成代码...
+  正在编译...
+  FtpFileDlg.cpp
+  正在生成代码...
+ResourceCompile:
+  C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D _DEBUG /D _AFXDLL /l"0x0804" /IDebug\ /nologo /fo"Debug\FtpFile.res" FtpFile.rc 
+ManifestResourceCompile:
+  所有输出均为最新。
+Link:
+  e:\Visual Stadio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\zhangzhizhi\Documents\Visual Studio 2010\Projects\FtpFile\Debug\FtpFile.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\FtpFile.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\zhangzhizhi\Documents\Visual Studio 2010\Projects\FtpFile\Debug\FtpFile.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\zhangzhizhi\Documents\Visual Studio 2010\Projects\FtpFile\Debug\FtpFile.lib" /MACHINE:X86 Debug\FtpFile.res
+  Debug\FtpFile.exe.embed.manifest.res
+  Debug\FtpFile.obj
+  Debug\FtpFileDlg.obj
+  Debug\stdafx.obj
+Manifest:
+  C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\FtpFile.exe.embed.manifest" /manifest Debug\FtpFile.exe.intermediate.manifest "e:\Visual Stadio\VC\Include\Manifest\dpiaware.manifest"
+  所有输出均为最新。
+LinkEmbedManifest:
+  所有输出均为最新。
+  FtpFile.vcxproj -> C:\Users\zhangzhizhi\Documents\Visual Studio 2010\Projects\FtpFile\Debug\FtpFile.exe
+FinalizeBuildStatus:
+  正在删除文件“Debug\FtpFile.unsuccessfulbuild”。
+  正在对“Debug\FtpFile.lastbuildstate”执行 Touch 任务。
+已完成生成项目“C:\Users\zhangzhizhi\Documents\Visual Studio 2010\Projects\FtpFile\FtpFile\FtpFile.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:17.38
